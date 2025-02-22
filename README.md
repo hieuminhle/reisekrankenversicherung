@@ -1,4 +1,4 @@
-Dieses Projekt wurde zwischen dem Lehrstuhl für Enterprise Computing und der viadee Unternehmensberatung AG kooperiert.
+Dieses Projekt wurde zwischen dem Lehrstuhl für Enterprise Computing der TU Dortmund und der viadee Unternehmensberatung AG kooperiert.
 
 Bei dem Projekt handelt es sich um eine globale Versicherungsfirma mit unterschiedlichen Versicherungstypen in unterschiedlichen Bereichen. Allerdings war der Ausführungsprozess der Reisekrankenversicherung ein Kandidat zur Prozessautomatisierung, der noch aus manchen manuellen Schritten besteht und modernisiert werden sollte.
 
@@ -6,7 +6,7 @@ Ziel ist es, den ganzen Prozess sowie die damit verbundenen Entscheidungsschritt
 
 _____________
 
-This project was cooperated between the Chair of Enterprise Computing and an IT consulting firm called "viadee Unternehmensberatung AG".
+This project was cooperated between the Chair of Enterprise Computing (TU Dortmund University) and an IT consulting firm called "viadee Unternehmensberatung AG".
 
 The project was about a global insurance company with various types of insurance in different areas. However, the process for executing travel health insurance was identified as a candidate for process automation, which still consisted of a few manual steps and should be modernized.
 
